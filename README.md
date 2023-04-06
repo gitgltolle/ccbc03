@@ -1,1 +1,1 @@
-# ccbc03
+Secondary placeholder website for capstone project
